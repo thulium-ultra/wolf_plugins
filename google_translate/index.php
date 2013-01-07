@@ -21,7 +21,7 @@ Plugin::setInfos(array(
     'version'     => '0.0.1',
    	'license'     => 'GPL',
 	'author'      => 'thulium',
-	'update_url'  => 'http://github.com/thulium/wolf_plugins/update.xml',
+	'update_url'  => 'http://raw.github.com/thulium/wolf_plugins/master/update.xml',
     'website'     => 'http://www.wolfcms.org/',
     //'require_wolf_version' => '0.7.5'
 ));

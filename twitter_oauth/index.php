@@ -6,7 +6,7 @@ Plugin::setInfos(array(
     'description' => 'Allows you to display Twitter statuses where you want.', 
     'version'     => '0.0.1', 
     'website'     => 'http://www.wolfcms.org/',
-	'update_url'  => 'http://github.com/thulium/wolf_plugins/update.xml',
+	'update_url'  => 'http://raw.github.com/thulium/wolf_plugins/master/update.xml',
 	'author'	  => 'thulium',)
 );
 
