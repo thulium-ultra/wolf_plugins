@@ -73,7 +73,7 @@ function getTweets($username,$count) {
 	  'user_secret'     => $usec,
 	));
 
-	$code = $tmhOAuth->request('GET', $tmhOAuth->url('1/statuses/user_timeline'), array(
+	$code = $tmhOAuth->request('GET', $tmhOAuth->url('1.1/statuses/user_timeline'), array(
 	  'include_entities' => '1',
 	  'include_rts'      => '1',
 	  'screen_name'      => $username,
