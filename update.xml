@@ -3,11 +3,6 @@
   <wolf-plugin>
     <id>twitter_oauth</id>
     <version>0.0.3</version>
-    <status>stable</status>
-  </wolf-plugin>
-  <wolf-plugin>
-    <id>google_translate</id>
-    <version>0.0.1</version>
     <status>latest</status>
   </wolf-plugin>
 </wolf-plugins>
